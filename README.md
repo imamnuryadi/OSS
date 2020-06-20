@@ -1,2 +1,2 @@
 # OSS
-test repo
+test repo for git cammonds demonstration
